@@ -38,7 +38,7 @@ a{
 
 .content {
 	padding: 65px 40px 20px 40px; /* add 45px + 20px nav height mobile */
-	height: 25%; /* 100/number of sections % */
+	height: 20%; /* 100/number of sections % */
 	width: 100%;
 }
 
